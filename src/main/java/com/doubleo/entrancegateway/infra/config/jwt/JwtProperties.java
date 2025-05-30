@@ -1,4 +1,4 @@
-package com.doubleo.admingateway.infra.config.jwt;
+package com.doubleo.entrancegateway.infra.config.jwt;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

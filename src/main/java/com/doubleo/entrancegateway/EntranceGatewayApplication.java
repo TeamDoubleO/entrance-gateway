@@ -1,12 +1,12 @@
-package com.doubleo.admingateway;
+package com.doubleo.entrancegateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdminGatewayApplication {
+public class EntranceGatewayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AdminGatewayApplication.class, args);
+        SpringApplication.run(EntranceGatewayApplication.class, args);
     }
 }

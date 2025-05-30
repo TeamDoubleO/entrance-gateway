@@ -1,4 +1,4 @@
-package com.doubleo.admingateway.infra.config.route;
+package com.doubleo.entrancegateway.infra.config.route;
 
 import java.util.List;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.doubleo.admingateway.config.route;
+package com.doubleo.entrancegateway.config.route;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;

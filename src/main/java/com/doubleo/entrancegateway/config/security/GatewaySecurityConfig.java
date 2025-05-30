@@ -1,7 +1,7 @@
-package com.doubleo.admingateway.config.security;
+package com.doubleo.entrancegateway.config.security;
 
-import com.doubleo.admingateway.filter.JwtAuthenticationFilter;
-import com.doubleo.admingateway.infra.config.route.GatewayPathProperties;
+import com.doubleo.entrancegateway.filter.JwtAuthenticationFilter;
+import com.doubleo.entrancegateway.infra.config.route.GatewayPathProperties;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

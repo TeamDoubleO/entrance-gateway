@@ -1,6 +1,6 @@
-package com.doubleo.admingateway.filter;
+package com.doubleo.entrancegateway.filter;
 
-import com.doubleo.admingateway.infra.config.jwt.JwtProperties;
+import com.doubleo.entrancegateway.infra.config.jwt.JwtProperties;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;

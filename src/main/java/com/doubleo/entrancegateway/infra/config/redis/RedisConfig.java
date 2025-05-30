@@ -1,4 +1,4 @@
-package com.doubleo.admingateway.infra.config.redis;
+package com.doubleo.entrancegateway.infra.config.redis;
 
 import java.time.Duration;
 import lombok.RequiredArgsConstructor;
